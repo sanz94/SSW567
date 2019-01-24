@@ -42,7 +42,7 @@ class TestTriangles(unittest.TestCase):
 
         self.assertEqual(classifyTriangle(1, 1, 1), 'Equilateral Not Right Triangle')
         self.assertNotEqual(classifyTriangle(10, 10, 10), 'Isoceles Right Triangle')
-        self.assertEqual(classifyTriangle(10, 15, 30), 'Scalene Not Right Triangle')
+        self.assertEqual(classifyTriangle(10, 15, 24), 'Scalene Not Right Triangle')
 
 
 if __name__ == '__main__':
