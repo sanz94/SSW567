@@ -1,0 +1,15 @@
+What challenges did you encounter with this assignment, if any? 
+
+Figuring out triangle properties
+
+What did you think about the requirements specification for this assignment?
+
+It was decent but should have specified what makes a triangle ( Sum of two sides greater than third)
+
+What challenges did you encounter with the tools?
+
+Nothing, Had prior experience with tools
+
+Describe the criteria you used to determine that you had sufficient test cases, i.e. how did you know you were done?
+
+Tested all boundary cases
